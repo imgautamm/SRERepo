@@ -1,0 +1,519 @@
+country_name,airport_name,length_ft,width_ft,runway_type
+Afghanistan,Bagram Airfield,11820,151.0,Longest
+Afghanistan,Andkhoy Airport,2480,60.0,Shortest
+Albania,Kuçovë Air Base,9318,220.0,Longest
+Albania,Vlorë Air Base,2813,195.0,Shortest
+Algeria,Tinfouchy Airport,12737,246.0,Longest
+Algeria,Mostaganem Airport,2275,100.0,Shortest
+American Samoa,Pago Pago International Airport,10000,150.0,Longest
+American Samoa,Ofu Airport,2000,60.0,Shortest
+Angola,Quatro de Fevereiro Airport,12190,148.0,Longest
+Angola,Sumbe Airport,3115,60.0,Shortest
+Anguilla,Clayton J Lloyd International Airport,5462,98.0,Longest
+Anguilla,Clayton J Lloyd International Airport,5462,98.0,Shortest
+Antarctica,South Pole Station Airport,12000,200.0,Longest
+Antarctica,Palmer Station Airport,2500,100.0,Shortest
+Antigua and Barbuda,V.C. Bird International Airport,9003,148.0,Longest
+Antigua and Barbuda,V.C. Bird International Airport,9003,148.0,Shortest
+Argentina,Piloto Civil N. Fernández Airport,11644,148.0,Longest
+Argentina,Villa Del Rosario Airport,0,0.0,Shortest
+Armenia,Zvartnots International Airport,12629,184.0,Longest
+Armenia,Arzni Airport,3252,250.0,Shortest
+Aruba,Queen Beatrix International Airport,9000,148.0,Longest
+Aruba,Queen Beatrix International Airport,9000,148.0,Shortest
+Australia,Sydney Kingsford Smith International Airport,12999,148.0,Longest
+Australia,Robinhood Airport,0,,Shortest
+Austria,Vienna International Airport,11811,148.0,Longest
+Austria,Gmünd Heliport,50,50.0,Shortest
+Azerbaijan,Heydar Aliyev International Airport,13123,197.0,Longest
+Azerbaijan,Balakan Airport,3966,120.0,Shortest
+Bahamas,Lynden Pindling International Airport,11353,150.0,Longest
+Bahamas,Black Point Airstrip,2500,80.0,Shortest
+Bahrain,Bahrain International Airport,12979,197.0,Longest
+Bahrain,Bahrain International Airport,8302,148.0,Shortest
+Bangladesh,Hazrat Shahjalal International Airport,11500,150.0,Longest
+Bangladesh,Ishurdi Airport,4700,80.0,Shortest
+Barbados,Grantley Adams International Airport,11000,150.0,Longest
+Barbados,Grantley Adams International Airport,11000,150.0,Shortest
+Belarus,Minsk National Airport,12139,197.0,Longest
+Belarus,Borisovo Air Base,1640,66.0,Shortest
+Belgium,Liège Airport,12106,148.0,Longest
+Belgium,Lint Heliport,69,69.0,Shortest
+Belize,Riversdale International Airport,9022,197.0,Longest
+Belize,San Ignacio Town (Maya Flats) Airstrip,2135,31.0,Shortest
+Benin,Cadjehoun Airport,7874,148.0,Longest
+Benin,Parakou Airport,5249,,Shortest
+Bermuda,L.F. Wade International International Airport,9705,150.0,Longest
+Bermuda,L.F. Wade International International Airport,9705,150.0,Shortest
+Bhutan,Paro Airport,7431,98.0,Longest
+Bhutan,Bathpalathang Airport,3937,,Shortest
+Bolivia,El Alto International Airport,13123,151.0,Longest
+Bolivia,Capitán Av. Juan Cochamanidis S. Airport,3936,,Shortest
+Bosnia and Herzegovina,Sarajevo International Airport,8666,150.0,Longest
+Bosnia and Herzegovina,Visoko Sport Airfield,2362,98.0,Shortest
+Botswana,Sir Seretse Khama International Airport,13123,148.0,Longest
+Botswana,Nxamaseri Airport,2562,59.0,Shortest
+Brazil,Rio Galeão – Tom Jobim International Airport,13123,148.0,Longest
+Brazil,Carmel Hotels Helipad,20,20.0,Shortest
+British Indian Ocean Territory,Diego Garcia Naval Support Facility,12003,200.0,Longest
+British Indian Ocean Territory,Diego Garcia Naval Support Facility,12003,200.0,Shortest
+British Virgin Islands,Terrance B. Lettsome International Airport,4642,89.0,Longest
+British Virgin Islands,Captain Auguste George Airport,2500,,Shortest
+Brunei,Brunei International Airport,12000,150.0,Longest
+Brunei,Brunei International Airport,12000,150.0,Shortest
+Bulgaria,Sofia Airport,11811,147.0,Longest
+Bulgaria,Graf Ignatievo South Airport,1213,77.0,Shortest
+Burkina Faso,Bobo Dioulasso Airport,10826,148.0,Longest
+Burkina Faso,Ouagadougou Airport,6269,98.0,Shortest
+Burma,Mandalay International Airport,14003,200.0,Longest
+Burma,Lanywa Airport,3821,61.0,Shortest
+Burundi,Bujumbura Melchior Ndadaye International Airport,11811,148.0,Longest
+Burundi,Gitega Airport,3117,,Shortest
+Cambodia,Phnom Penh International Airport,9843,144.0,Longest
+Cambodia,Kampot Airport,1900,89.0,Shortest
+Cameroon,Yaoundé Nsimalen International Airport,11155,148.0,Longest
+Cameroon,Mamfe Airport,4495,,Shortest
+Canada,Pontiac Airpark Water Aerodrome,120000,1000.0,Longest
+Canada,Kitchener-Waterloo (Grand River Hospital) Heliport,30,30.0,Shortest
+Cape Verde,Amílcar Cabral International Airport,10735,148.0,Longest
+Cape Verde,Agostinho Neto Airport,1476,98.0,Shortest
+Caribbean Netherlands,Flamingo International Airport,9449,148.0,Longest
+Caribbean Netherlands,Juancho E. Yrausquin Airport,1300,,Shortest
+Cayman Islands,Owen Roberts International Airport,7021,148.0,Longest
+Cayman Islands,Edward Bodden Airfield,3275,,Shortest
+Central African Republic,Bangui M'Poko International Airport,8530,148.0,Longest
+Central African Republic,Yalinga Airport,3920,,Shortest
+Chad,Abeche Airport,9186,98.0,Longest
+Chad,N'Djamena International Airport,9186,148.0,Longest
+Chad,Faya Largeau Airport,9186,148.0,Longest
+Chad,Moundou Airport,5906,115.0,Shortest
+Chad,Sarh Airport,5906,,Shortest
+Chile,Comodoro Arturo Merino Benítez International Airport,12303,180.0,Longest
+Chile,Comodoro Arturo Merino Benítez International Airport,12303,148.0,Longest
+Chile,Pillán Airport,1247,49.0,Shortest
+China,Qamdo Bangda Airport,18045,148.0,Longest
+China,Badaling or YanQing Airport,2700,106.0,Shortest
+Christmas Island,Christmas Island Airport,6900,148.0,Longest
+Christmas Island,Christmas Island Airport,6900,148.0,Shortest
+Cocos (Keeling) Islands,Cocos (Keeling) Islands Airport,7999,148.0,Longest
+Cocos (Keeling) Islands,Cocos (Keeling) Islands Airport,7999,148.0,Shortest
+Colombia,El Dorado International Airport,12467,148.0,Longest
+Colombia,El Dorado International Airport,12467,148.0,Longest
+Colombia,Melgar Air Base,1320,65.0,Shortest
+Comoros,Prince Said Ibrahim International Airport,9514,148.0,Longest
+Comoros,Mohéli Bandar Es Eslam Airport,4265,98.0,Shortest
+Congo (Brazzaville),Oyo Ollombo Airport,10827,150.0,Longest
+Congo (Brazzaville),Maya-Maya Airport,10827,148.0,Longest
+Congo (Brazzaville),Owando Airport,5905,98.0,Shortest
+Congo (Kinshasa),Ndjili International Airport,15420,197.0,Longest
+Congo (Kinshasa),Bibanga Airport,2051,,Shortest
+Cook Islands,Rarotonga International Airport,7638,150.0,Longest
+Cook Islands,Mangaia Island Airport,3274,,Shortest
+Costa Rica,Juan Santamaría International Airport,9882,151.0,Longest
+Costa Rica,Drake Bay Airport,2461,,Shortest
+Côte d'Ivoire,Bouaké Airport,10827,148.0,Longest
+Côte d'Ivoire,Soko Airport,4921,,Shortest
+Croatia,Dubrovnik Airport,10827,148.0,Longest
+Croatia,Zvekovac,2083,125.0,Shortest
+Cuba,Antonio Maceo International Airport,13130,148.0,Longest
+Cuba,Florida Airport,3247,90.0,Shortest
+Curaçao,Hato International Airport,11188,197.0,Longest
+Curaçao,Hato International Airport,11188,197.0,Shortest
+Cyprus,Larnaca International Airport,9776,148.0,Longest
+Cyprus,Ercan International Airport,906,,Shortest
+Czech Republic,Václav Havel Airport Prague,12189,148.0,Longest
+Czech Republic,Zvole Western,980,67.0,Shortest
+Denmark,Copenhagen Kastrup Airport,11811,148.0,Longest
+Denmark,Holsted Helipad,39,39.0,Shortest
+Djibouti,Djibouti-Ambouli Airport,10335,150.0,Longest
+Djibouti,Chabelley Airport,7795,98.0,Shortest
+Dominica,Douglas-Charles Airport,4777,148.0,Longest
+Dominica,Canefield Airport,3130,75.0,Shortest
+Dominican Republic,Las Américas International Airport,11000,200.0,Longest
+Dominican Republic,Monte Cristi Airport,2625,,Shortest
+Ecuador,Mariscal Sucre International Airport,13445,148.0,Longest
+Ecuador,Vinces Airport,3001,59.0,Shortest
+Egypt,Hurghada International Airport,13124,148.0,Longest
+Egypt,Cairo International Airport,13124,197.0,Longest
+Egypt,Borg El Arab International Airport,1347,148.0,Shortest
+Egypt,Borg El Arab International Airport,1347,148.0,Shortest
+El Salvador,Monseñor Óscar Arnulfo Romero International Airport,10500,148.0,Longest
+El Salvador,Monseñor Óscar Arnulfo Romero International Airport,2625,75.0,Shortest
+Equatorial Guinea,Bata Airport,10860,200.0,Longest
+Equatorial Guinea,Annobón Airport,6177,100.0,Shortest
+Eritrea,Assab International Airport,11531,148.0,Longest
+Eritrea,Asmara International Airport,5951,148.0,Shortest
+Estonia,Lennart Meri Tallinn Airport,11417,148.0,Longest
+Estonia,Varstu Airfield,1312,66.0,Shortest
+Eswatini,King Mswati III International Airport,11811,197.0,Longest
+Eswatini,Matsapha Airport,8530,148.0,Shortest
+Ethiopia,Addis Ababa Bole International Airport,12467,148.0,Longest
+Ethiopia,Lideta Army Airport,3839,64.0,Shortest
+Falkland Islands,Mount Pleasant Airport,8497,150.0,Longest
+Falkland Islands,Port Stanley Airport,1110,42.0,Shortest
+Faroe Islands,Vágar Airport,5902,98.0,Longest
+Faroe Islands,Vágar Airport,5902,98.0,Shortest
+Fiji,Nadi International Airport,10739,150.0,Longest
+Fiji,Taunovo Airstrip,2395,50.0,Shortest
+Finland,Helsinki Vantaa Airport,11286,197.0,Longest
+Finland,Viitasaari Airfield,951,82.0,Shortest
+France,Charles de Gaulle International Airport,13829,148.0,Longest
+France,Lens Benifontaine Airfield,0,0.0,Shortest
+France,Lens Benifontaine Airfield,0,0.0,Shortest
+France,Dunkerque les Moeres Airfield,0,0.0,Shortest
+French Guiana,Cayenne – Félix Eboué Airport,10486,148.0,Longest
+French Guiana,Sinnamary Airport,1640,67.0,Shortest
+French Polynesia,Faa'a International Airport,11360,148.0,Longest
+French Polynesia,Apataki Airport,2854,,Shortest
+French Southern Territories,Europa Island Airstrip,4921,,Longest
+French Southern Territories,Juan de Nova Airstrip,4265,,Shortest
+Gabon,M'Vengue El Hadj Omar Bongo Ondimba International Airport,10105,148.0,Longest
+Gabon,Okondja Airport,4921,98.0,Shortest
+Gambia,Banjul International Airport,11811,148.0,Longest
+Gambia,Banjul International Airport,11811,148.0,Shortest
+Georgia,Sukhumi Babushara /  Vladislav Ardzinba International Airport,12012,172.0,Longest
+Georgia,Kutaisi West Airport,4692,114.0,Shortest
+Germany,Munich Airport,13123,197.0,Longest
+Germany,Frankfurt am Main Airport,13123,148.0,Longest
+Germany,Frankfurt am Main Airport,13123,197.0,Longest
+Germany,Munich Airport,13123,197.0,Longest
+Germany,Berlin Brandenburg Airport,13123,148.0,Longest
+Germany,Flughafen München-Riem,13123,197.0,Longest
+Germany,Flughafen München-Riem,13123,197.0,Longest
+Germany,Frankfurt am Main Airport,13123,148.0,Longest
+Germany,Reichelsheim Airport,820,98.0,Shortest
+Ghana,Kotoka International Airport,11165,200.0,Longest
+Ghana,Sunyani Airport,4227,148.0,Shortest
+Gibraltar,Gibraltar Airport,6000,150.0,Longest
+Gibraltar,Gibraltar Airport,6000,150.0,Shortest
+Greece,Eleftherios Venizelos International Airport,13123,148.0,Longest
+Greece,Kopaida Dimitra Airfield,1936,82.0,Shortest
+Greenland,Summit Ice Landingstrip,15000,200.0,Longest
+Greenland,Narsaq Heliport,197,66.0,Shortest
+Greenland,Narsaq Heliport,197,66.0,Shortest
+Grenada,Point Salines International Airport,9003,148.0,Longest
+Grenada,Lauriston Airport,2625,,Shortest
+Guadeloupe,Pointe-à-Pitre Le Raizet,11499,148.0,Longest
+Guadeloupe,La Désirade Airport,1985,,Shortest
+Guam,Antonio B. Won Pat International Airport,12015,150.0,Longest
+Guam,Barrigada Readiness Center Heliport,50,50.0,Shortest
+Guatemala,Mundo Maya International Airport,9842,148.0,Longest
+Guatemala,Bananera Airport,3236,33.0,Shortest
+Guernsey,Guernsey Airport,5194,148.0,Longest
+Guernsey,Alderney Airport,1630,121.0,Shortest
+Guinea,Conakry International Airport,10826,148.0,Longest
+Guinea,Nzérékoré Airport,4921,,Shortest
+Guinea-Bissau,Osvaldo Vieira International Airport,10499,148.0,Longest
+Guinea-Bissau,Quebo Airport,3958,70.0,Shortest
+Guyana,Cheddi Jagan International Airport,7448,148.0,Longest
+Guyana,Eugene F. Correira International Airport,4201,100.0,Shortest
+Haiti,Toussaint Louverture International Airport,9974,141.0,Longest
+Haiti,Les Cayes Airport,3220,80.0,Shortest
+Honduras,Goloson International Airport,9875,147.0,Longest
+Honduras,Sur Agropecuaria Airport,700,20.0,Shortest
+Hong Kong,Hong Kong International Airport,12467,197.0,Longest
+Hong Kong,Hong Kong International Airport,12467,197.0,Longest
+Hong Kong,Shek Kong Air Base,6180,110.0,Shortest
+Hungary,Budapest Liszt Ferenc International Airport,12162,149.0,Longest
+Hungary,Győrújbarát Heliport,98,98.0,Shortest
+Iceland,Keflavik International Airport,10056,197.0,Longest
+Iceland,Forsæti Airport,2510,115.0,Shortest
+India,Indira Gandhi International Airport,14534,197.0,Longest
+India,Leh Kushok Bakula Rimpochee Airport,500,85.0,Shortest
+India,Leh Kushok Bakula Rimpochee Airport,500,60.0,Shortest
+Indonesia,Hang Nadim International Airport,13270,148.0,Longest
+Indonesia,Waff Airstrip,1100,33.0,Shortest
+Indonesia,Tiom Airport,1100,,Shortest
+Iran,Bushehr Airport,14664,148.0,Longest
+Iran,Hesa Airport,1091,40.0,Shortest
+Iraq,Erbil International Airport,15748,246.0,Longest
+Iraq,Erbil International Airport,4085,105.0,Shortest
+Ireland,Shannon Airport,10495,148.0,Longest
+Ireland,Shannon Airport,23,148.0,Shortest
+Isle of Man,Isle of Man Airport,5751,151.0,Longest
+Isle of Man,Isle of Man Airport,2963,89.0,Shortest
+Israel,Ben Gurion International Airport,13327,148.0,Longest
+Israel,Tnuvot Ultralight Airfield,2224,32.0,Shortest
+Italy,Malpensa International Airport,12861,197.0,Longest
+Italy,Malpensa International Airport,12861,197.0,Longest
+Italy,Bari Karol Wojtyła Airport,512,164.0,Shortest
+Jamaica,Norman Manley International Airport,8900,150.0,Longest
+Jamaica,Ian Fleming International Airport,3000,75.0,Shortest
+Japan,JASDF Chitose Air Base,13124,200.0,Longest
+Japan,JMSDF Tateyama Air Base,984,148.0,Shortest
+Jersey,Jersey Airport,5597,148.0,Longest
+Jersey,Jersey Airport,5597,148.0,Shortest
+Jordan,Queen Alia International Airport,12008,200.0,Longest
+Jordan,Queen Alia International Airport,12008,200.0,Longest
+Jordan,Zarqa Airport,4146,80.0,Shortest
+Kazakhstan,Yubileyniy Airfield,14765,275.0,Longest
+Kazakhstan,Semipalatinsk Airport,3270,253.0,Shortest
+Kenya,Jomo Kenyatta International Airport,13507,148.0,Longest
+Kenya,Lodwar Airport,1645,64.0,Shortest
+Kiribati,Cassidy International Airport,6900,98.0,Longest
+Kiribati,Tabiteuea North Airport,3365,103.0,Shortest
+Kosovo,Priština Adem Jashari International Airport,8165,148.0,Longest
+Kosovo,Gjakova Airport,5904,98.0,Shortest
+Kuwait,Kuwait International Airport,11483,148.0,Longest
+Kuwait,Udairi Army Air Field,5215,80.0,Shortest
+Kyrgyzstan,Manas International Airport,13780,180.0,Longest
+Kyrgyzstan,Tamga Airport,2788,574.0,Shortest
+Laos,Wattay International Airport,9843,148.0,Longest
+Laos,Phonesavanh Airport,3090,65.0,Shortest
+Latvia,Riga International Airport,10499,148.0,Longest
+Latvia,Grotūža lidlauks,1148,,Shortest
+Lebanon,Beirut Rafic Hariri International Airport,12467,148.0,Longest
+Lebanon,Wujah Al Hajar Air Base,6000,,Shortest
+Lesotho,Moshoeshoe I International Airport,10498,148.0,Longest
+Lesotho,Mejametalana Airbase,1542,98.0,Shortest
+Liberia,Roberts International Airport,11000,150.0,Longest
+Liberia,Spriggs Payne Airport,6000,100.0,Shortest
+Libya,Al Jufra Airport,13729,197.0,Longest
+Libya,Zelten Sw New Airport,2045,105.0,Shortest
+Lithuania,Šiauliai International Airport,11483,148.0,Longest
+Lithuania,Paluknys Airfield,620,60.0,Shortest
+Luxembourg,Luxembourg-Findel International Airport,13123,197.0,Longest
+Luxembourg,Medernach / Kitzebour ULM,500,,Shortest
+Macau,Macau International Airport,10544,148.0,Longest
+Macau,Macau International Airport,10544,148.0,Shortest
+Madagascar,Ivato Airport,10171,148.0,Longest
+Madagascar,Toliara Airport,2625,42.0,Shortest
+Malawi,Lilongwe International Airport,11614,148.0,Longest
+Malawi,Club Makokola Airport,3800,,Shortest
+Malaysia,Kuala Lumpur International Airport,13530,197.0,Longest
+Malaysia,Simpang Airport,517,97.0,Shortest
+Maldives,Gan International Airport,12000,165.0,Longest
+Maldives,Dharavandhoo Airport,3901,,Shortest
+Mali,Modibo Keita International Airport,10498,148.0,Longest
+Mali,Nara Airport,1299,98.0,Shortest
+Malta,Malta International Airport,11627,197.0,Longest
+Malta,Hal Far Airfield,4800,,Shortest
+Marshall Islands,Marshall Islands International Airport,7897,150.0,Longest
+Marshall Islands,Utirik Airport,2400,50.0,Shortest
+Martinique,Martinique Aimé Césaire International Airport,10826,147.0,Longest
+Martinique,Martinique Aimé Césaire International Airport,10826,147.0,Shortest
+Mauritania,Nouakchott–Oumtounsy International Airport,11155,197.0,Longest
+Mauritania,Kiffa Airport,5208,95.0,Shortest
+Mauritius,Sir Seewoosagur Ramgoolam International Airport,11056,148.0,Longest
+Mauritius,Sir Charles Gaetan Duval Airport,4223,98.0,Shortest
+Mayotte,Dzaoudzi Pamandzi International Airport,6330,92.0,Longest
+Mayotte,Dzaoudzi Pamandzi International Airport,6330,92.0,Shortest
+Mexico,Licenciado Adolfo Lopez Mateos International Airport,13780,148.0,Longest
+Mexico,Ayuquila Airport,1804,,Shortest
+Micronesia,Chuuk International Airport,6006,150.0,Longest
+Micronesia,Kosrae International Airport,5750,150.0,Shortest
+Moldova,Chişinău International Airport,11779,145.0,Longest
+Moldova,Chadyr Lunga Airport,6463,,Shortest
+Mongolia,Buyant-Ukhaa International Airport,10170,197.0,Longest
+Mongolia,Binder Airport,3938,,Shortest
+Montenegro,Tivat Airport,8208,148.0,Longest
+Montenegro,Nikšić Airfield,3937,,Shortest
+Montserrat,John A. Osborne Airport,1968,,Longest
+Montserrat,John A. Osborne Airport,1968,,Shortest
+Morocco,Mohammed V International Airport,12205,148.0,Longest
+Morocco,Mohammed V International Airport,12205,148.0,Longest
+Morocco,Kenitra Air Base,6035,150.0,Shortest
+Mozambique,Maputo Airport,12008,148.0,Longest
+Mozambique,Vilankulo Airport,2461,75.0,Shortest
+Namibia,Hosea Kutako International Airport,15010,148.0,Longest
+Namibia,Karasburg Airport,2750,,Shortest
+Nauru,Nauru International Airport,7054,148.0,Longest
+Nauru,Nauru International Airport,7054,148.0,Shortest
+Nepal,Tribhuvan International Airport,10007,148.0,Longest
+Nepal,Lukla Airport,1616,98.0,Shortest
+Netherlands,Amsterdam Airport Schiphol,12467,198.0,Longest
+Netherlands,Stadskanaal Airfield,984,99.0,Shortest
+New Caledonia,La Tontouta International Airport,10663,148.0,Longest
+New Caledonia,Île Art - Waala Airport,1969,66.0,Shortest
+New Zealand,Auckland International Airport,11926,148.0,Longest
+New Zealand,Fern Gully Heliport,16,16.0,Shortest
+Nicaragua,Punta Huete (Panchito) Airport,9862,148.0,Longest
+Nicaragua,Leon (Fanor Urroz) Airport,3048,82.0,Shortest
+Niger,Mano Dayak International Airport,9843,98.0,Longest
+Niger,Diori Hamani International Airport,9843,148.0,Longest
+Niger,Iferouane Airport,4438,196.0,Shortest
+Nigeria,Murtala Muhammed International Airport,12794,197.0,Longest
+Nigeria,Forçados Terminal Airport,3165,60.0,Shortest
+Niue,Niue International Airport,7660,148.0,Longest
+Niue,Niue International Airport,7660,148.0,Shortest
+Norfolk Island,Norfolk Island International Airport,6398,150.0,Longest
+Norfolk Island,Norfolk Island International Airport,4708,98.0,Shortest
+Northern Mariana Islands,Saipan International Airport,8700,200.0,Longest
+Northern Mariana Islands,Pagan Airstrip,1500,120.0,Shortest
+North Korea,Pyongyang Sunan International Airport,12475,197.0,Longest
+North Korea,Chik-Tong Airstrip,880,49.0,Shortest
+North Macedonia,Skopje International Airport,9678,148.0,Longest
+North Macedonia,Veles Airstrip,980,80.0,Shortest
+North Macedonia,Negotino Airfield,980,66.0,Shortest
+North Macedonia,Štip Airstrip,980,68.0,Shortest
+Norway,Oslo Gardermoen Airport,11811,148.0,Longest
+Norway,Førde Central Hospital Heliport,33,,Shortest
+Oman,Duqm International Airport,13123,194.0,Longest
+Oman,Muscat International Airport,13123,,Longest
+Oman,Thumrait Air Base,13123,148.0,Longest
+Oman,Salalah Airport,4196,59.0,Shortest
+Pakistan,Islamabad International Airport,12001,197.0,Longest
+Pakistan,Islamabad International Airport,12001,147.0,Longest
+Pakistan,Gilgit Airport,983,49.0,Shortest
+Palau,Babelthuap Airport,7200,150.0,Longest
+Palau,Peleliu Airport,6000,40.0,Shortest
+Palestinian Territory,Jerusalem International Airport,6447,148.0,Longest
+Palestinian Territory,Jerusalem International Airport,6447,148.0,Shortest
+Panama,Tocumen International Airport,10006,148.0,Longest
+Panama,Ustupo Airport,1475,450.0,Shortest
+Papua New Guinea,Port Moresby Jacksons International Airport,9022,148.0,Longest
+Papua New Guinea,Kamina Airport,1148,,Shortest
+Paraguay,Dr. Luis Maria Argaña International Airport,11483,131.0,Longest
+Paraguay,Villa Hayes Sarg Airport,3215,,Shortest
+Perú,Inca Manco Capac International Airport,13779,150.0,Longest
+Perú,Collique Airport,3272,148.0,Shortest
+Philippines,Ninoy Aquino International Airport,12261,197.0,Longest
+Philippines,Woodland Airpark (duplicate),1980,98.0,Shortest
+Poland,Warsaw Chopin Airport,12106,196.0,Longest
+Poland,Brody Airfield,755,66.0,Shortest
+Portugal,Humberto Delgado Airport (Lisbon Portela Airport),12484,148.0,Longest
+Portugal,Herdade da Brava Heliport,66,66.0,Shortest
+Puerto Rico,Rafael Hernandez Airport,11702,200.0,Longest
+Puerto Rico,Boqueron Airport,1200,25.0,Shortest
+Qatar,Hamad International Airport,15912,197.0,Longest
+Qatar,Um Al Shokot,1640,65.0,Shortest
+Réunion,Roland Garros Airport,10499,148.0,Longest
+Réunion,Pierrefonds Airport,7000,150.0,Shortest
+Romania,Henri Coandă International Airport,11484,148.0,Longest
+Romania,Henri Coandă International Airport,11484,148.0,Longest
+Romania,Aerodrom Crasna,890,100.0,Shortest
+Russia,Ulyanovsk East Airport,16404,323.0,Longest
+Russia,Yelizovo Airport,735,50.0,Shortest
+Rwanda,Kigali International Airport,11483,148.0,Longest
+Rwanda,Gisenyi Airport,3330,75.0,Shortest
+Saint Barthélemy,Gustaf III Airport / Saint Barthélemy Rémy de Haenen Airport,2133,49.0,Longest
+Saint Barthélemy,Gustaf III Airport / Saint Barthélemy Rémy de Haenen Airport,2133,49.0,Shortest
+Saint Helena,RAF Ascension Island,10019,150.0,Longest
+Saint Helena,Saint Helena Airport,6398,148.0,Shortest
+Saint Kitts and Nevis,Robert L. Bradshaw International Airport,7602,148.0,Longest
+Saint Kitts and Nevis,Vance W. Amory International Airport,3996,98.0,Shortest
+Saint Lucia,Hewanorra International Airport,9003,148.0,Longest
+Saint Lucia,George F. L. Charles Airport,5735,148.0,Shortest
+Saint Martin,Grand Case-Espérance Airport,3937,98.0,Longest
+Saint Martin,Grand Case-Espérance Airport,3937,98.0,Shortest
+Saint Pierre and Miquelon,St Pierre Airport,5900,150.0,Longest
+Saint Pierre and Miquelon,Miquelon Airport,3280,65.0,Shortest
+Saint Vincent and the Grenadines,Argyle International Airport,9000,148.0,Longest
+Saint Vincent and the Grenadines,Mustique Airport,3255,75.0,Shortest
+Samoa,Faleolo International Airport,9843,148.0,Longest
+Samoa,Fagali'i Airport,2198,,Shortest
+San Marino,Aviosuperficie Torraccia,2133,98.0,Longest
+San Marino,Aviosuperficie Torraccia,2133,98.0,Shortest
+São Tomé and Principe,São Tomé International Airport,7283,148.0,Longest
+São Tomé and Principe,Principe Airport,4331,98.0,Shortest
+Saudi Arabia,King Khaled International Airport,13796,197.0,Longest
+Saudi Arabia,King Khaled International Airport,13796,197.0,Longest
+Saudi Arabia,Kharmiyah Airstrip,4125,95.0,Shortest
+Senegal,Blaise Diagne International Airport,11483,197.0,Longest
+Senegal,Saint Louis Airport,4300,125.0,Shortest
+Serbia,Belgrade Nikola Tesla Airport,11155,148.0,Longest
+Serbia,Čačak-Preljina Airport,722,39.0,Shortest
+Seychelles,Seychelles International Airport,9800,151.0,Longest
+Seychelles,Assumption Island Airport,1210,100.0,Shortest
+Sierra Leone,Lungi International Airport,10498,150.0,Longest
+Sierra Leone,Lungi International Airport,10498,150.0,Shortest
+Singapore,Singapore Changi Airport /  Changi Air Base (West),13123,197.0,Longest
+Singapore,Singapore Changi Airport /  Changi Air Base (West),13123,197.0,Longest
+Singapore,Singapore Changi Airport /  Changi Air Base (West),13123,197.0,Longest
+Singapore,Tengah Air Base,1155,236.0,Shortest
+Sint Maarten,Princess Juliana International Airport,7708,148.0,Longest
+Sint Maarten,Princess Juliana International Airport,7152,148.0,Shortest
+Slovakia,M. R. Štefánik Airport,10466,148.0,Longest
+Slovakia,Dolná Štubňa Airstrip,1476,39.0,Shortest
+Slovenia,Ljubljana Jože Pučnik Airport,10827,148.0,Longest
+Slovenia,Močna 'Jurkovič' Airfield,494,50.0,Shortest
+Solomon Islands,Honiara International Airport,7218,148.0,Longest
+Solomon Islands,Afutara Aerodrome,1501,131.0,Shortest
+Somalia,Berbera Airport,13582,164.0,Longest
+Somalia,Eil Airport,3445,164.0,Shortest
+South Africa,Pierre Van Ryneveld Airport,16076,197.0,Longest
+South Africa,"Klipriver Airfield, South Africa",900,,Shortest
+South Korea,Incheon International Airport,13000,197.0,Longest
+South Korea,C 158 Heliport,20,20.0,Shortest
+South Korea,C 158 Heliport,20,20.0,Shortest
+South Korea,N 303 Helipad,20,20.0,Shortest
+South Sudan,Juba International Airport,10171,148.0,Longest
+South Sudan,Akobo Airport,3500,,Shortest
+Spain,Adolfo Suárez Madrid–Barajas Airport,13711,197.0,Longest
+Spain,Pamplona Airport,2,,Shortest
+Sri Lanka,Mattala Rajapaksa International Airport,11483,197.0,Longest
+Sri Lanka,Koggala Airport,3142,140.0,Shortest
+Sudan,Merowe New Airport,13186,197.0,Longest
+Sudan,El Debba Airport,4595,100.0,Shortest
+Suriname,Johan Adolf Pengel International Airport,11417,148.0,Longest
+Suriname,Johan Adolf Pengel International Airport,11417,148.0,Shortest
+Sweden,Luleå Airport,10990,148.0,Longest
+Sweden,Ängelholm-Helsingborg Airport,613,131.0,Shortest
+Switzerland,Geneva Cointrin International Airport,12795,164.0,Longest
+Switzerland,Gsteigwiler Heliport,82,82.0,Shortest
+Switzerland,San Vittore Heliport,82,82.0,Shortest
+Syria,Qamishli Airport,11860,150.0,Longest
+Syria,Minaq Air Base,4020,145.0,Shortest
+Taiwan,Taiwan Taoyuan International Airport,12008,197.0,Longest
+Taiwan,Wang'an Airport,3051,76.0,Shortest
+Tajikistan,Khudzhand Airport,10450,164.0,Longest
+Tajikistan,Farkhor Air Base,2585,72.0,Shortest
+Tanzania,Kilimanjaro International Airport,11834,148.0,Longest
+Tanzania,Julius Nyerere International Airport,3280,98.0,Shortest
+Thailand,Suvarnabhumi Airport,13123,197.0,Longest
+Thailand,Khok Kathiam Airport,600,64.0,Shortest
+Timor-Leste,Cakung Airport,8233,182.0,Longest
+Timor-Leste,Fuiloro Airfield,1969,39.0,Shortest
+Togo,Lomé–Tokoin International Airport,9847,148.0,Longest
+Togo,Niamtougou International Airport,8202,148.0,Shortest
+Tonga,Fua'amotu International Airport,8795,147.0,Longest
+Tonga,Kaufana Airport,2650,65.0,Shortest
+Trinidad and Tobago,Piarco International Airport,10500,150.0,Longest
+Trinidad and Tobago,Camden Airfield,4301,50.0,Shortest
+Tunisia,Enfidha - Hammamet International Airport,10826,196.0,Longest
+Tunisia,Borj El Amri Airport,3407,98.0,Shortest
+Turkey,İstanbul Airport,13451,147.0,Longest
+Turkey,İstanbul Airport,13451,196.0,Longest
+Turkey,Fly Pergamon Sport Airfield,885,100.0,Shortest
+Turkmenistan,Ashgabat International Airport,12467,151.0,Longest
+Turkmenistan,Turkmenabat Airport,12467,197.0,Longest
+Turkmenistan,Gaurdak Airport,4849,130.0,Shortest
+Turks and Caicos Islands,Providenciales Airport,7598,148.0,Longest
+Turks and Caicos Islands,Pine Cay Airport,2533,,Shortest
+Tuvalu,Funafuti International Airport,5040,,Longest
+Tuvalu,Funafuti International Airport,5040,,Shortest
+Uganda,Entebbe International Airport,12000,150.0,Longest
+Uganda,Soroti Airport,2525,98.0,Shortest
+Ukraine,Donetsk Sergei Prokofiev International Airport,13123,196.0,Longest
+Ukraine,Boryspil International Airport,13123,197.0,Longest
+Ukraine,Odessa International Airport,1815,197.0,Shortest
+United Arab Emirates,Al Maktoum International Airport,14764,197.0,Longest
+United Arab Emirates,Al Saqr Field,2625,49.0,Shortest
+United Kingdom,London Heathrow Airport,12799,164.0,Longest
+United Kingdom,Andrewsfield,0,0.0,Shortest
+United States,Gunflint Seaplane Base,30000,5000.0,Longest
+United States,Trinity Medical Center Heliport,4,40.0,Shortest
+United States Minor Outlying Islands,Wake Island Airfield,9843,150.0,Longest
+United States Minor Outlying Islands,Henderson Field,7904,200.0,Shortest
+Uruguay,Carrasco International /General C L Berisso Airport,10499,148.0,Longest
+Uruguay,Aeroclub Canelones,1476,98.0,Shortest
+U.S. Virgin Islands,Henry E Rohlsen Airport,10004,150.0,Longest
+U.S. Virgin Islands,Charlotte Amalie Harbor Seaplane Base,4000,4000.0,Shortest
+Uzbekistan,Tashkent International Airport,13123,197.0,Longest
+Uzbekistan,Yakkatu Airport,1312,33.0,Shortest
+Vanuatu,Bauerfield International Airport,8530,148.0,Longest
+Vanuatu,Tavie Airport,1968,98.0,Shortest
+Venezuela,Simón Bolívar International Airport,11483,148.0,Longest
+Venezuela,San Tomé Airport,1785,90.0,Shortest
+Vietnam,Tan Son Nhat International Airport,12468,148.0,Longest
+Vietnam,Đảo Trường Sa (Spratly Island) Airport,1970,,Shortest
+Wallis and Futuna,Hihifo Airport,6890,148.0,Longest
+Wallis and Futuna,Pointe Vele Airport,3609,,Shortest
+Western Sahara,Smara Airport,9850,100.0,Longest
+Western Sahara,Hassan I Airport,8202,148.0,Shortest
+Yemen,Sadah Airport,11483,,Longest
+Yemen,Beihan Airport,5480,75.0,Shortest
+Zambia,Kenneth Kaunda International Airport,12998,150.0,Longest
+Zambia,Kenneth Kaunda International Airport,2700,100.0,Shortest
+Zimbabwe,Robert Gabriel Mugabe International Airport,15502,151.0,Longest
+Zimbabwe,Marondera Airport,2625,30.0,Shortest
