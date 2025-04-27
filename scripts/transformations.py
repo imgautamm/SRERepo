@@ -42,7 +42,7 @@ WITH runway_details AS (
         RANK() OVER (PARTITION BY country_code ORDER BY runway_length ASC NULLS LAST) AS rank_shortest
     FROM 
         (SELECT DISTINCT country_name, airport_name, runway_length, runway_width, country_code
-         FROM gk1_master_airports
+         FROM master_airports
          WHERE runway_length IS NOT NULL AND airport_type != 'closed') AS distinct_runways
 )
 SELECT 
@@ -74,7 +74,7 @@ SELECT
     country_name,
     COUNT(DISTINCT airport_ident) AS airport_count
 FROM 
-    gk1_master_airports
+    master_airports
 WHERE 
     airport_type != 'closed'  -- Exclude closed airports
 GROUP BY 
@@ -90,7 +90,7 @@ SELECT
     country_name,
     COUNT(DISTINCT airport_ident) AS airport_count
 FROM 
-    gk1_master_airports
+    master_airports
 WHERE 
     airport_type != 'closed'  -- Exclude closed airports
 GROUP BY 
