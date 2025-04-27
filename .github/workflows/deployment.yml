@@ -38,13 +38,13 @@ jobs:
 
       - name: Run Ingestion and MasterData
         run: |
-          python Ingestion.py
-          python masterdata.py
+          python scripts/ingestion.py
+          python scripts/masterdata.py
 
       - name: Run Quality Checks
         run: |
-          python qualitychecks.py
+          python scripts/qualitychecks.py
 
       - name: Run Transformations
         run: |
-          python transformations.py
+          python scripts/transformations.py
