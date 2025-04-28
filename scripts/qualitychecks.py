@@ -1,13 +1,9 @@
 import psycopg2
 
 # Database connection
-conn = psycopg2.connect(
-    host="localhost",
-    port=5432,
-    database="my_db",
-    user="my_user",
-    password="my_password"
-)
+from db import get_connection
+
+conn = get_connection()
 cur = conn.cursor()
 
 # --- Helper Function to run check and print results ---
