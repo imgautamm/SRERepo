@@ -10,6 +10,7 @@ cur = conn.cursor()
 
 # Create output folder if it doesn't exist
 output_folder = "output"
+os.makedirs(output_folder, exist_ok=True)
 
 # --- Helper to run a query, print results, and save to CSV ---
 def run_and_save(query, title, filename):
