@@ -1,3 +1,2 @@
 psycopg2-binary
-apache-airflow==2.9.0
 pandas
