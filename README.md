@@ -1,35 +1,41 @@
 
-# Data Engineering ETL Pipeline with PostgreSQL, Docker, and GitHub Actions
+# Data Engineering ETL Pipeline with PostgreSQL, Docker, and GitHub Actions - GK
 
+---
 
-##Project Structure
+## 📁 Project Structure
 
-├── .github/
-│   └── workflows/
-│       └── deployment.yml            # CI/CD pipeline for automated deployments
+```
+SRERepo/
+├── .github/workflows/
+│   └── deployment.yml           # CI/CD pipeline for automated deployments
 │
-├── data/
-│   ├── airports.csv                   # Raw airport data
-│   ├── countries.csv                  # Raw countries data
-│   ├── master_airports.csv            # Processed master airport dataset
-│   └── runways.csv                    # Raw runway data
+├── data/                       
+│   ├── airports.csv             # Raw airport data
+│   ├── countries.csv            # Raw countries data
+│   ├── master_airports.csv      # Processed master airport dataset
+│   └── runways.csv              # Raw runway data
 │
 ├── output/
-│   ├── bottom10_countries_airports.csv # Bottom 10 countries by number of airports
-│   ├── longest_shortest_runways.csv    # Longest and shortest runways per country
-│   └── top3_countries_airports.csv     # Top 3 countries by number of airports
+│   ├── bottom10_countries_airports.csv    # Bottom 10 countries by number of airports
+│   ├── longest_shortest_runways.csv       # Longest and shortest runway data
+│   └── top3_countries_airports.csv        # Top 3 countries by number of airports
 │
 ├── scripts/
-│   ├── config.py                      # Configuration file (paths, settings)
-│   ├── db.py                          # Database connection logic
-│   ├── ingestion.py                   # Data ingestion script (reads CSVs)
-│   ├── masterdata.py                  # Prepares master data tables
-│   ├── qualitychecks.py               # Performs data quality checks
-│   └── transformations.py             # Transformations and aggregations
+│   ├── config.py                 # Central configuration settings (paths, constants)
+│   ├── db.py                     # Database connection logic (PostgreSQL etc.)
+│   ├── ingestion.py              # Data ingestion from raw files
+│   ├── masterdata.py             # Preparation of master datasets
+│   ├── qualitychecks.py          # Data quality validations
+│   └── transformations.py        # Data transformation and aggregations
 │
-├── docker-compose.yml                 # Docker configuration for local development
-├── requirements.txt                   # Python package dependencies
-└── README.md                          # (This file) Project Documentation
+├── docker-compose.yml            # Docker setup file for local containers
+├── requirements.txt              # Python dependencies
+├── README.md                     # Project documentation (this file) 
+
+```
+
+---
 
 ## Overview
 This project automates the process of ingesting data, performing transformations, running quality checks, and storing the data in a PostgreSQL database. The entire pipeline is orchestrated using **GitHub Actions**, and **Docker** is used to deploy the PostgreSQL container. The pipeline includes multiple stages such as:
