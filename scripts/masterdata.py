@@ -3,13 +3,9 @@ import pandas as pd
 import os
 
 # Connect to PostgreSQL
-conn = psycopg2.connect(
-    host="localhost",
-    port=5432,
-    database="my_db",
-    user="my_user",
-    password="my_password"
-)
+from db import get_connection
+
+conn = get_connection()
 cur = conn.cursor()
 
 # Master table creation query
