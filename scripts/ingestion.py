@@ -2,6 +2,7 @@ import psycopg2
 import requests
 import io
 import csv
+from config import CSV_PUBLIC_URL
 
 # Database connection details
 from db import get_connection
