@@ -2,15 +2,12 @@ import psycopg2
 import requests
 import io
 import csv
+from config import CSV_PUBLIC_URL
 
 # Database connection details
-conn = psycopg2.connect(
-    host="localhost",
-    port=5432,
-    database="my_db",
-    user="my_user",
-    password="my_password"
-)
+from db import get_connection
+
+conn = get_connection()
 cur = conn.cursor()
 
 # --- Step 1: Create Tables ---
@@ -132,9 +129,9 @@ ON CONFLICT (id) DO NOTHING;
 
 # --- Step 3: URLs and Loading Data ---
 
-airports_url = "https://sacodeassessment.blob.core.windows.net/public/airports.csv"
-countries_url = "https://sacodeassessment.blob.core.windows.net/public/countries.csv"
-runways_url = "https://sacodeassessment.blob.core.windows.net/public/runways.csv"
+airports_url = f"{CSV_PUBLIC_URL}/airports.csv"
+countries_url = f"{CSV_PUBLIC_URL}/countries.csv"
+runways_url = f"{CSV_PUBLIC_URL}/runways.csv"
 
 load_csv_to_table(airports_url, insert_airports)
 load_csv_to_table(countries_url, insert_countries)

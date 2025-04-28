@@ -1,4 +1,4 @@
-name: Deploy PostgreSQL with Docker and Run ETL Pipeline
+name: Deploy ETL Pipeline
 
 on:
   push:
@@ -6,11 +6,15 @@ on:
       - main
   workflow_dispatch:  # Allows manual triggering of the workflow
   schedule:
-    - cron: '0 0 * * *'  # This will run the workflow every day at midnight UTC
+    - cron: '0 19 * * *'  # Runs every day at 19:00 UTC (8 PM CET in winter)
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    env:   # Injecting secrets into the environment
+      POSTGRES_DB: ${{ secrets.POSTGRES_DB }}
+      POSTGRES_USER: ${{ secrets.POSTGRES_USER }}
+      POSTGRES_PASSWORD: ${{ secrets.POSTGRES_PASSWORD }}
 
     steps:
       - name: Checkout code
@@ -37,16 +41,19 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-
+      
       - name: Run Ingestion and MasterData
         run: |
+          cd scripts
           python ingestion.py
           python masterdata.py
 
       - name: Run Quality Checks
         run: |
+          cd scripts
           python qualitychecks.py
 
       - name: Run Transformations
         run: |
+          cd scripts
           python transformations.py

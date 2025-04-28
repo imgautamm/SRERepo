@@ -3,17 +3,13 @@ import pandas as pd
 import os
 
 # Connect to PostgreSQL
-conn = psycopg2.connect(
-    host="localhost",
-    port=5432,
-    database="my_db",
-    user="my_user",
-    password="my_password"
-)
+from db import get_connection
+
+conn = get_connection()
+cur = conn.cursor()
 
 # Create output folder if it doesn't exist
 output_folder = "output"
-# This line is no longer necessary since we are overwriting files in the folder
 os.makedirs(output_folder, exist_ok=True)
 
 # --- Helper to run a query, print results, and save to CSV ---
