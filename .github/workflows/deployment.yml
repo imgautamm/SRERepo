@@ -1,4 +1,4 @@
-name: Deploy PostgreSQL with Docker and Run ETL Pipeline
+name: Deploy ETL Pipeline
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
       - main
   workflow_dispatch:  # Allows manual triggering of the workflow
   schedule:
-    - cron: '0 0 * * *'  # This will run the workflow every day at midnight UTC
+    - cron: '0 19 * * *'  # Runs every day at 19:00 UTC (8 PM CET in winter)
 
 jobs:
   deploy:
