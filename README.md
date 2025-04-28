@@ -1,5 +1,5 @@
 
-# Data Engineering Pipeline with PostgreSQL, Docker, and GitHub Actions
+# Data Engineering ETL Pipeline with PostgreSQL, Docker, and GitHub Actions
 
 ## Overview
 This project automates the process of ingesting data, performing transformations, running quality checks, and storing the data in a PostgreSQL database. The entire pipeline is orchestrated using **GitHub Actions**, and **Docker** is used to deploy the PostgreSQL container. The pipeline includes multiple stages such as:
@@ -65,7 +65,7 @@ The pipeline is set up to run via **GitHub Actions**. It includes the following 
    - `masterdata.py`
    - `quality_checks.py`
    - `transformations.py`
-
+     
 #### Workflow Triggers
 - **Push** to the `main` branch.
 - **Scheduled run** (daily).
@@ -105,13 +105,12 @@ GitHub Actions orchestrates the entire CI/CD workflow, while Docker provides a c
 3. **CI/CD Integration**: Configuring GitHub Actions to handle dependencies and run the pipeline seamlessly without errors.
 
 ## Improvement Ideas
-1. **Dynamic Configuration**: Implement environment variables for database credentials and file paths to make the pipeline more flexible.
-2. **Error Handling**: Improve error handling in Python scripts to address unexpected issues like missing files or connection failures more gracefully.
-3. **Testing**: Incorporate unit tests for Python scripts and end-to-end testing of the pipeline to ensure robustness.
-4. **Scaling**: Use cloud storage and parallel processing to handle larger datasets and improve performance.
+1. **Error Handling**: Improve error handling in Python scripts to address unexpected issues like missing files or connection failures more gracefully.
+2. **Testing**: Incorporate unit tests for Python scripts and end-to-end testing of the pipeline to ensure robustness.
+3. **Scaling**: Use cloud storage and parallel processing to handle larger datasets and improve performance.
 
 ## LLM (Large Language Model) Usage
 A **Large Language Model (LLM)**, specifically **ChatGPT**, was used to assist in generating parts of the code and YAML configuration for the project. The model helped with:
 - Writing and optimizing Python scripts.
-- Utilized it to create documentation needed.
+- Utilized it to create the documentation needed.
 
